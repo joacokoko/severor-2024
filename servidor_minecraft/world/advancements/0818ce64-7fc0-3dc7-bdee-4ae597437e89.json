@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "ancient_elements:fluffy": {
+    "criteria": {
+      "fluffy": "2024-11-28 21:44:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2024-11-28 20:41:13 +0000"
