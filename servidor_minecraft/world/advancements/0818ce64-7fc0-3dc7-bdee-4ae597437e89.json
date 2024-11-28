@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-28 20:46:26 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone": {
     "criteria": {
       "has_journal": "2024-11-28 20:41:13 +0000"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2024-11-28 20:46:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-11-28 20:41:13 +0000"
@@ -698,6 +710,12 @@
   "ars_nouveau:recipes/misc/red_archwood_wood": {
     "criteria": {
       "has_journal": "2024-11-28 20:41:13 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-11-28 20:52:40 +0000"
     },
     "done": true
   },
@@ -1202,6 +1220,12 @@
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2024-11-28 20:41:13 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2024-11-28 20:46:43 +0000"
     },
     "done": true
   },
@@ -1744,6 +1768,12 @@
   "ars_nouveau:recipes/misc/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2024-11-28 20:41:13 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/vampire_rack": {
+    "criteria": {
+      "has_fangs": "2024-11-28 20:46:43 +0000"
     },
     "done": true
   },
