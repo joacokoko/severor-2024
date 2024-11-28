@@ -9,10 +9,10 @@
 		"Generate Dragon Skeleton Chance" = 300
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Cave Chance" = 180
+		"Generate Dragon Cave Chance" = 1000
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Roost Chance" = 360
+		"Generate Dragon Roost Chance" = 720
 		#1 out of this number chance per block that gold will generate in dragon lairs.
 		#Range: 1 ~ 10000
 		"Dragon Den Gold Amount" = 4
@@ -63,7 +63,7 @@
 		"Dragon Flute Distance" = 4
 		#Max dragon health. Health is scaled to this
 		#Range: 1.0 ~ 100000.0
-		"Dragon Health" = 500.0
+		"Dragon Health" = 620.0
 		#Max dragon attack damage. Attack Damage is scaled to this
 		#Range: 1 ~ 10000
 		"Dragon Attack Damage" = 17
