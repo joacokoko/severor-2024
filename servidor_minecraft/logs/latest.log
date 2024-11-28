@@ -5079,3 +5079,12 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [28Nov2024 05:08:02.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [28Nov2024 05:08:13.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [28Nov2024 05:08:32.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Nov2024 05:09:05.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Nov2024 05:09:13.885] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Nov2024 05:09:25.071] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Nov2024 05:09:27.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Nov2024 05:09:27.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Nov2024 05:09:27.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Nov2024 05:09:31.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaxco15 lost connection: Disconnected
+[28Nov2024 05:09:31.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaxco15 left the game
+[28Nov2024 05:09:31.650] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaxco15
