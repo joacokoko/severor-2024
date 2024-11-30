@@ -5313,6 +5313,84 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-11-30 04:21:56 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/bow_upgrade": {
+    "criteria": {
+      "has_bow": "2024-11-30 04:21:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-11-30 04:21:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2024-11-30 04:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-30 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-30 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/assorted_vegetables": {
+    "criteria": {
+      "has_a_veggie": "2024-11-30 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-30 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/piper_hat": {
+    "criteria": {
+      "has_feather": "2024-11-30 04:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-11-30 04:23:14 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/feathery_wing": {
+    "criteria": {
+      "has_feather": "2024-11-30 04:23:14 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-11-30 04:23:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2024-11-30 04:24:37 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/blood_cult": {
     "criteria": {
       "main": "2024-11-30 04:27:44 +0000"
@@ -5325,16 +5403,58 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-11-30 04:47:55 +0000"
-    },
-    "done": true
-  },
   "vampirism:vampire/first_blood": {
     "criteria": {
       "main": "2024-11-30 04:27:44 +0000",
       "flower": "2024-11-30 04:32:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2024-11-30 04:27:44 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2024-11-30 04:27:44 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2024-11-30 04:27:44 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2024-11-30 04:27:44 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2024-11-30 04:27:44 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2024-11-30 04:27:44 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2024-11-30 04:27:44 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/music_disc_dial": {
+    "criteria": {
+      "has_item": "2024-11-30 04:29:57 +0000"
     },
     "done": true
   },
@@ -5344,9 +5464,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_amethyst_shard": "2024-11-30 04:51:14 +0000"
+      "has_stone_slab": "2024-11-30 04:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-11-30 04:37:26 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/herb_bundle": {
+    "criteria": {
+      "has_flower": "2024-11-30 04:37:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2024-11-30 04:40:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/jack_o_ratern": {
+    "criteria": {
+      "has_torch": "2024-11-30 04:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-11-30 04:46:08 +0000"
     },
     "done": true
   },
@@ -5356,15 +5506,45 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/void_lily": {
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-11-30 04:47:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_lapis": "2024-11-30 04:47:55 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-11-30 04:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-11-30 04:47:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-11-30 04:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-11-30 04:51:14 +0000"
     },
     "done": true
   },
-  "rats:recipes/combat/piper_hat": {
+  "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
-      "has_feather": "2024-11-30 04:23:14 +0000"
+      "has_amethyst_shard": "2024-11-30 04:51:14 +0000"
     },
     "done": true
   },
@@ -5380,183 +5560,9 @@
     },
     "done": true
   },
-  "rats:recipes/building_blocks/jack_o_ratern": {
-    "criteria": {
-      "has_torch": "2024-11-30 04:46:08 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/kill_mother": {
-    "criteria": {
-      "main": "2024-11-30 04:27:44 +0000"
-    },
-    "done": false
-  },
-  "vampirism:recipes/combat/leather_from_obi_belt": {
-    "criteria": {
-      "has_obi_belt": "2024-11-30 04:40:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-11-30 04:21:56 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/flight_upgrade": {
-    "criteria": {
-      "has_lapis": "2024-11-30 04:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2024-11-30 04:35:14 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/resurrect": {
-    "criteria": {
-      "main": "2024-11-30 04:27:44 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/bat": {
-    "criteria": {
-      "main": "2024-11-30 04:27:44 +0000"
-    },
-    "done": false
-  },
-  "spartanshields:recipes/lapis_lazuli_basic_shield": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-11-30 04:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-11-30 04:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-11-30 04:22:37 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-11-30 04:51:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-11-30 04:22:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2024-11-30 04:23:14 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/extra_storage": {
-    "criteria": {
-      "main": "2024-11-30 04:27:44 +0000"
-    },
-    "done": false
-  },
-  "rats:recipes/food/assorted_vegetables": {
-    "criteria": {
-      "has_a_veggie": "2024-11-30 04:22:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-11-30 04:37:26 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
-    "criteria": {
-      "has_arrow": "2024-11-30 04:21:58 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/bow_upgrade": {
-    "criteria": {
-      "has_bow": "2024-11-30 04:21:56 +0000"
-    },
-    "done": true
-  },
-  "species:recipes/music_disc_dial": {
-    "criteria": {
-      "has_item": "2024-11-30 04:29:57 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/herb_bundle": {
-    "criteria": {
-      "has_flower": "2024-11-30 04:37:26 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2024-11-30 04:48:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2024-11-30 04:21:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_the_recipe": "2024-11-30 04:46:08 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/yuck": {
-    "criteria": {
-      "main": "2024-11-30 04:27:44 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/sniped": {
-    "criteria": {
-      "main": "2024-11-30 04:27:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-11-30 04:22:37 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/become_vampire": {
-    "criteria": {
-      "main": "2024-11-30 04:27:44 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/feathery_wing": {
-    "criteria": {
-      "has_feather": "2024-11-30 04:23:14 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/vampire_forest": {
-    "criteria": {
-      "main": "2024-11-30 04:24:37 +0000"
     },
     "done": true
   },
@@ -5566,9 +5572,213 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "find_artifact": "2024-11-30 04:23:45 +0000"
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/speed_upgrade": {
+    "criteria": {
+      "has_dust": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-11-30 23:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-11-30 23:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-11-30 23:28:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
     },
     "done": true
   },
