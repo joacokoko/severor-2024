@@ -1802,6 +1802,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-30 03:54:21 +0000",
+      "minecraft:deep_ocean": "2024-12-01 00:16:23 +0000",
       "minecraft:frozen_river": "2024-11-28 20:44:48 +0000",
       "minecraft:beach": "2024-11-30 03:38:19 +0000",
       "minecraft:river": "2024-11-30 03:37:23 +0000",
@@ -1809,7 +1810,10 @@
       "minecraft:snowy_taiga": "2024-11-30 04:04:59 +0000",
       "minecraft:cold_ocean": "2024-11-30 04:21:10 +0000",
       "minecraft:forest": "2024-11-30 03:34:48 +0000",
+      "minecraft:lush_caves": "2024-12-01 00:22:02 +0000",
       "minecraft:ice_spikes": "2024-11-28 20:41:15 +0000",
+      "minecraft:ocean": "2024-12-01 00:16:06 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-01 00:26:36 +0000",
       "minecraft:snowy_beach": "2024-11-30 03:34:11 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-30 23:50:21 +0000",
       "minecraft:plains": "2024-11-30 03:27:11 +0000"
@@ -5574,27 +5578,21 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+      "has_raw_silver": "2024-11-30 23:28:44 +0000"
     },
     "done": true
   },
-  "rats:recipes/misc/hammocks/rat_hammock_magenta": {
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
+      "has_raw_silver": "2024-11-30 23:28:44 +0000"
     },
     "done": true
   },
-  "rats:cheese": {
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
-      "get_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+      "has_raw_silver": "2024-11-30 23:28:44 +0000"
     },
     "done": true
   },
@@ -5610,69 +5608,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_brown": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2024-11-30 23:50:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-11-30 23:46:38 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "rats:milk_cauldron": {
-    "criteria": {
-      "curdle_milk": "2024-12-01 00:02:43 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2024-11-30 23:53:51 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
     },
     "done": true
   },
@@ -5682,33 +5620,9 @@
     },
     "done": true
   },
-  "rats:recipes/misc/hammocks/rat_hammock_gray": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/cheese": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:02:55 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_purple": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
     },
     "done": true
   },
@@ -5718,39 +5632,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2024-11-30 23:43:38 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2024-11-30 23:47:32 +0000"
-    },
-    "done": false
-  },
-  "rats:recipes/building_blocks/block_of_cheese": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
     },
     "done": true
   },
@@ -5760,63 +5644,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:pig": "2024-11-30 23:43:38 +0000"
-    },
-    "done": false
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_orange": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
-    "criteria": {
-      "has_iron": "2024-11-30 23:53:51 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
-    "criteria": {
-      "has_wheat_seeds": "2024-11-30 23:47:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-11-30 23:53:51 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_blue": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_the_recipe": "2024-12-01 00:02:39 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/basic_upgrade": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
     },
     "done": true
   },
@@ -5826,51 +5656,9 @@
     },
     "done": true
   },
-  "rats:recipes/misc/hammocks/rat_hammock_lime": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/building_blocks/marbled_cheese_raw": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/chef/string_cheese": {
-    "criteria": {
-      "has_input": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_cyan": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2024-11-30 23:55:11 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_black": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
     },
     "done": true
   },
@@ -5886,21 +5674,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2024-11-30 23:28:44 +0000"
     },
     "done": true
   },
@@ -5910,27 +5686,9 @@
     },
     "done": true
   },
-  "rats:recipes/building_blocks/block_of_blue_cheese": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:02:55 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2024-11-30 23:53:51 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
       "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
     },
     "done": true
   },
@@ -5946,45 +5704,9 @@
     },
     "done": true
   },
-  "rats:recipes/building_blocks/marbled_cheese_raw_alt": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-11-30 23:50:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_green": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_white": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
     },
     "done": true
   },
@@ -5994,39 +5716,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2024-11-30 23:28:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/cheese_banner_pattern": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:02:55 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/damage_protection_upgrade": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:02:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2024-11-30 23:28:44 +0000"
     },
     "done": true
   },
@@ -6036,21 +5728,9 @@
     },
     "done": true
   },
-  "evilcraft:fart": {
-    "criteria": {
-      "criteria_0": "2024-12-01 00:03:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "depthcrawler:nightmarekill": {
-    "criteria": {
-      "nightmarekill": "2024-12-01 00:08:59 +0000"
     },
     "done": true
   },
@@ -6072,27 +5752,9 @@
     },
     "done": true
   },
-  "rats:recipes/misc/hammocks/rat_hammock_yellow": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:03:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/blood_sieve": {
-    "criteria": {
-      "has_cauldron": "2024-12-01 00:02:40 +0000"
     },
     "done": true
   },
@@ -6102,15 +5764,399 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-11-30 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-11-30 23:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-11-30 23:43:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-11-30 23:46:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2024-11-30 23:47:32 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-11-30 23:47:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-30 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-11-30 23:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-11-30 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-11-30 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
+    "criteria": {
+      "has_iron": "2024-11-30 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-11-30 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-11-30 23:53:51 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
       "has_material": "2024-11-30 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-11-30 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-11-30 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-11-30 23:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 00:02:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2024-12-01 00:02:40 +0000"
+    },
+    "done": true
+  },
+  "rats:milk_cauldron": {
+    "criteria": {
+      "curdle_milk": "2024-12-01 00:02:43 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/cheese": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:02:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/block_of_blue_cheese": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:02:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/cheese_banner_pattern": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:02:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/damage_protection_upgrade": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:02:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_magenta": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:cheese": {
+    "criteria": {
+      "get_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_brown": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_gray": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_purple": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/block_of_cheese": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_orange": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_blue": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/basic_upgrade": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_lime": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/chef/string_cheese": {
+    "criteria": {
+      "has_input": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_cyan": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_black": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw_alt": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_green": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_white": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_yellow": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:03:02 +0000"
     },
     "done": true
   },
@@ -6126,63 +6172,231 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_block_modifier": {
-    "criteria": {
-      "has_redstone": "2024-11-30 23:29:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2024-11-30 23:50:45 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_impact_hammer": {
-    "criteria": {
-      "has_material": "2024-11-30 23:53:51 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/hammocks/rat_hammock_red": {
     "criteria": {
       "has_cheese": "2024-12-01 00:03:02 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+  "evilcraft:fart": {
     "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+      "criteria_0": "2024-12-01 00:03:10 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
+  "depthcrawler:nightmarekill": {
     "criteria": {
-      "has_item": "2024-11-30 23:29:15 +0000"
+      "nightmarekill": "2024-12-01 00:08:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_iron_block": "2024-11-30 23:53:51 +0000"
+      "has_log": "2024-12-01 00:14:01 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/cage_trap": {
+  "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "has_redstone": "2024-11-30 23:29:15 +0000"
+      "has_logs": "2024-12-01 00:14:01 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+  "create:recipes/building_blocks/birch_window": {
     "criteria": {
-      "has_stone_types_tuff": "2024-11-30 23:30:17 +0000"
+      "has_ingredient": "2024-12-01 00:14:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_redstone": "2024-11-30 23:29:15 +0000"
+      "has_planks": "2024-12-01 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-01 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-01 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-01 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-01 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-01 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-01 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-01 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-01 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/cursed_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/dark_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-01 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-01 00:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-01 00:17:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-01 00:17:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 00:18:49 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 00:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-01 00:18:49 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 00:18:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 00:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 00:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 00:18:49 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chef_upgrade": {
+    "criteria": {
+      "has_apple": "2024-12-01 00:18:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-01 00:19:03 +0000"
     },
     "done": true
   },
