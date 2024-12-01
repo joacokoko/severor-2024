@@ -2596,6 +2596,7 @@
       "bread": "2024-11-30 03:36:00 +0000",
       "golden_apple": "2024-11-30 23:47:20 +0000",
       "salmon": "2024-12-01 00:55:51 +0000",
+      "golden_carrot": "2024-12-01 01:19:20 +0000",
       "cod": "2024-12-01 00:14:51 +0000",
       "carrot": "2024-11-30 03:04:56 +0000"
     },
@@ -4812,6 +4813,12 @@
   "rats:recipes/misc/upgrades/angel_upgrade": {
     "criteria": {
       "has_gold": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/carrat_upgrade": {
+    "criteria": {
+      "has_garrot": "2024-12-01 01:15:58 +0000"
     },
     "done": true
   },
