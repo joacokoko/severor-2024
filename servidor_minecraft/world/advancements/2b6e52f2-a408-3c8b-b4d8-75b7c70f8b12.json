@@ -2227,9 +2227,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-11-30 03:04:19 +0000"
+      "has_parent_recipe": "2024-11-30 03:04:19 +0000",
+      "has_items": "2024-12-01 01:07:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
@@ -2569,7 +2570,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2024-11-30 03:04:48 +0000"
+      "minecraft:pillager": "2024-11-30 03:04:48 +0000",
+      "minecraft:vindicator": "2024-12-01 00:53:09 +0000"
     },
     "done": false
   },
@@ -2593,6 +2595,7 @@
       "pumpkin_pie": "2024-11-30 03:24:41 +0000",
       "bread": "2024-11-30 03:36:00 +0000",
       "golden_apple": "2024-11-30 23:47:20 +0000",
+      "salmon": "2024-12-01 00:55:51 +0000",
       "cod": "2024-12-01 00:14:51 +0000",
       "carrot": "2024-11-30 03:04:56 +0000"
     },
@@ -4416,9 +4419,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/blood_pedestal": {
+    "criteria": {
+      "has_gold": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-01 00:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
     },
     "done": true
   },
@@ -4431,6 +4452,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-01 00:13:06 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-01 01:07:05 +0000"
     },
     "done": true
   },
@@ -4452,15 +4479,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-01 00:30:49 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_gold": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-01 00:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
     },
     "done": true
   },
@@ -4500,9 +4557,21 @@
     },
     "done": true
   },
+  "rats:recipes/tools/rat_capture_net": {
+    "criteria": {
+      "has_iron": "2024-12-01 01:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-01 00:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-01 01:07:29 +0000"
     },
     "done": true
   },
@@ -4530,6 +4599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-01 00:12:23 +0000"
@@ -4542,11 +4617,23 @@
     },
     "done": true
   },
+  "tide:get_bait": {
+    "criteria": {
+      "bait_items": "2024-12-01 00:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-12-01 00:30:51 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-01 01:02:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
@@ -4557,6 +4644,12 @@
   "justhammers:recipes/tools/stone_destructor_hammer": {
     "criteria": {
       "has_material": "2024-12-01 00:36:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/basic_energy_upgrade": {
+    "criteria": {
+      "has_gold": "2024-12-01 01:07:29 +0000"
     },
     "done": true
   },
@@ -4584,6 +4677,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2024-12-01 01:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-01 00:30:49 +0000"
@@ -4599,6 +4698,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-01 00:30:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-01 01:11:22 +0000"
     },
     "done": true
   },
@@ -4620,6 +4725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_impact_hammer": {
     "criteria": {
       "has_material": "2024-12-01 00:36:25 +0000"
@@ -4638,9 +4749,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-01 01:10:25 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/transportation/cursed_spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-01 00:12:23 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-01 01:02:44 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/rat_water_bottle": {
+    "criteria": {
+      "has_iron": "2024-12-01 01:10:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/jack_o_ratern": {
+    "criteria": {
+      "has_torch": "2024-12-01 00:55:26 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/halo_hat": {
+    "criteria": {
+      "has_nugget": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-01 00:55:45 +0000"
     },
     "done": true
   },
@@ -4650,15 +4797,63 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/escape_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-01 01:02:44 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/misc/upgrades/golem_mount_upgrade": {
     "criteria": {
       "has_iron": "2024-12-01 00:28:49 +0000"
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/angel_upgrade": {
+    "criteria": {
+      "has_gold": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-01 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_and_crossbones_banner_pattern": {
+    "criteria": {
+      "has_paper": "2024-12-01 01:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
     },
     "done": true
   },
@@ -4692,6 +4887,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/aristocrat_upgrade": {
+    "criteria": {
+      "has_gold": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/big_bucket_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-01 00:30:49 +0000"
@@ -4722,11 +4923,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-01 01:10:25 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_white": {
     "criteria": {
       "has_wool": "2024-12-01 00:21:10 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-01 01:02:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
@@ -4746,6 +4959,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/golden_rat_skull": {
+    "criteria": {
+      "has_gold": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-01 00:30:49 +0000"
@@ -4758,9 +4977,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-01 01:02:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-12-01 00:21:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_infusion": {
+    "criteria": {
+      "has_gold": "2024-12-01 01:07:29 +0000"
     },
     "done": true
   },
@@ -4776,6 +5007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-01 00:21:10 +0000"
@@ -4788,9 +5025,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2024-12-01 00:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-01 00:55:45 +0000"
     },
     "done": true
   },
@@ -4800,9 +5049,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-01 01:11:22 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2024-12-01 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-01 01:02:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-01 01:02:44 +0000"
     },
     "done": true
   },
@@ -4839,6 +5106,12 @@
   "ancient_elements:cosmic_discoverer": {
     "criteria": {
       "cosmic_discoverer": "2024-12-01 00:09:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-12-01 00:56:11 +0000"
     },
     "done": true
   },
@@ -4896,9 +5169,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/cheese_banner_pattern": {
+    "criteria": {
+      "has_paper": "2024-12-01 01:02:44 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/aquatic_upgrade": {
     "criteria": {
       "has_feesh": "2024-12-01 00:13:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-01 01:02:44 +0000"
     },
     "done": true
   },
@@ -4914,6 +5199,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_banner_pattern": {
+    "criteria": {
+      "has_paper": "2024-12-01 01:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-01 00:36:25 +0000"
@@ -4925,6 +5216,24 @@
       "has_rail": "2024-12-01 00:42:18 +0000"
     },
     "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-01 01:02:44 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-01 01:07:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
@@ -4953,6 +5262,12 @@
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-01 00:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-01 00:55:45 +0000"
     },
     "done": true
   },
@@ -4986,6 +5301,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/plague_doctorate": {
+    "criteria": {
+      "has_paper": "2024-12-01 01:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-01 00:21:10 +0000"
@@ -4995,6 +5316,12 @@
   "justhammers:recipes/tools/stone_hammer": {
     "criteria": {
       "has_material": "2024-12-01 00:36:25 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2024-12-01 01:02:44 +0000"
     },
     "done": true
   },
@@ -5046,6 +5373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-01 01:02:44 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-01 00:30:49 +0000"
@@ -5064,9 +5397,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-01 00:30:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 01:02:44 +0000"
     },
     "done": true
   },
@@ -5088,9 +5433,27 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-01 01:02:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-01 00:30:49 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_flute": {
+    "criteria": {
+      "has_iron": "2024-12-01 01:10:25 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2024-12-01 01:07:29 +0000"
     },
     "done": true
   },
@@ -5103,6 +5466,18 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-01 00:28:48 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-01 01:02:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-01 01:07:29 +0000"
     },
     "done": true
   },

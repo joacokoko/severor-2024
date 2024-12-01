@@ -6400,18 +6400,6 @@
     },
     "done": true
   },
-  "rats:tame_rat": {
-    "criteria": {
-      "tame_rat": "2024-12-01 00:40:28 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/cooked_rat_smelting": {
-    "criteria": {
-      "has_rat": "2024-12-01 00:40:38 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/strider_mount_upgrade": {
     "criteria": {
       "has_cheese": "2024-12-01 00:38:21 +0000"
@@ -6430,9 +6418,27 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/nether_cheese_compressed": {
+    "criteria": {
+      "has_cheese": "2024-12-01 00:38:21 +0000"
+    },
+    "done": true
+  },
+  "rats:tame_rat": {
+    "criteria": {
+      "tame_rat": "2024-12-01 00:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-01 00:40:28 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smelting": {
+    "criteria": {
+      "has_rat": "2024-12-01 00:40:38 +0000"
     },
     "done": true
   },
@@ -6445,12 +6451,6 @@
   "rats:recipes/food/cooked_rat_campfire": {
     "criteria": {
       "has_rat": "2024-12-01 00:40:38 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/building_blocks/nether_cheese_compressed": {
-    "criteria": {
-      "has_cheese": "2024-12-01 00:38:21 +0000"
     },
     "done": true
   },

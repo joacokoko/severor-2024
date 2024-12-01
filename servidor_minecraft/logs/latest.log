@@ -1482,3 +1482,122 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Dec2024 00:55:03.882] [Server thread/INFO] [cuffed/]: palipax is interacting!
 [01Dec2024 00:55:10.224] [Server thread/INFO] [cuffed/]: palipax is interacting!
 [01Dec2024 00:55:13.991] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 00:55:45.123] [Server thread/INFO] [Tide/]: Marked id 897 as unread
+[01Dec2024 00:56:43.753] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 00:56:46.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 00:56:46.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 00:57:23.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 00:57:39.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: palipax has made the advancement [Baited Success]
+[01Dec2024 00:58:50.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 00:59:10.401] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 00:59:21.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: palipax was shot by Pillager
+[01Dec2024 00:59:55.301] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 00:59:55.302] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 00:59:55.302] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 00:59:58.788] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:00:41.722] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:00:42.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:00:42.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:00:42.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:00:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: palipax was slain by Vindicator
+[01Dec2024 01:01:18.051] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:01:21.119] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:01:25.721] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:01:27.919] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:01:29.025] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:01:33.221] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:01:41.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:03:31.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaxco15[/127.166.159.37:39209] logged in with entity id 62619 at (105.67707914298929, 64.0, -717.622117285006)
+[01Dec2024 01:03:31.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaxco15 joined the game
+[01Dec2024 01:03:31.881] [Server thread/INFO] [Jade/]: Syncing config to joaxco15 (0818ce64-7fc0-3dc7-bdee-4ae597437e89)
+[01Dec2024 01:03:31.884] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to joaxco15...
+[01Dec2024 01:03:31.884] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Dec2024 01:03:31.885] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to joaxco15
+[01Dec2024 01:03:32.662] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:03:34.263] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:03:34.917] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaxco15 (18)
+[01Dec2024 01:03:34.918] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaxco15
+[01Dec2024 01:04:29.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaxco15 lost connection: Timed out
+[01Dec2024 01:04:29.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaxco15 left the game
+[01Dec2024 01:04:29.938] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaxco15
+[01Dec2024 01:04:29.951] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Dec2024 01:04:29.952] [Netty Epoll Server IO #1/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x00007eecd04f4820.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mdfb12c1$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23361!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mdfb12c1$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23361!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01Dec2024 01:05:03.450] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:05:03.873] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:05:04.041] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:05:04.223] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:05:13.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: palipax was shot by Pillager
+[01Dec2024 01:06:06.368] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4274224d[id=<null>,name=joaxco15,properties={},legacy=false] (/127.166.159.37:43787) lost connection: Timed out
+[01Dec2024 01:06:44.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:06:44.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:06:59.270] [Server thread/INFO] [cuffed/]: palipax is interacting!
+[01Dec2024 01:07:05.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: palipax has made the advancement [A True Source of Evil]
+[01Dec2024 01:07:49.552] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:07:49.553] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:07:56.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaxco15[/127.166.159.37:59215] logged in with entity id 64129 at (105.67707914298929, 64.0, -717.622117285006)
+[01Dec2024 01:07:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaxco15 joined the game
+[01Dec2024 01:07:56.880] [Server thread/INFO] [Jade/]: Syncing config to joaxco15 (0818ce64-7fc0-3dc7-bdee-4ae597437e89)
+[01Dec2024 01:07:56.882] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to joaxco15...
+[01Dec2024 01:07:56.882] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Dec2024 01:07:56.883] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to joaxco15
+[01Dec2024 01:07:58.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:07:58.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:07:58.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:07:58.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:07:58.151] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:07:58.151] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:07:58.151] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:07:58.608] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaxco15 (18)
+[01Dec2024 01:07:58.609] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaxco15
+[01Dec2024 01:08:01.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:08:02.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:08:23.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joaxco15: Set own game mode to Survival Mode]
+[01Dec2024 01:08:42.103] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:08:42.103] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:08:42.104] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:08:47.832] [Server thread/INFO] [cuffed/]: joaxco15 is interacting!
+[01Dec2024 01:08:51.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaxco15 lost connection: Disconnected
+[01Dec2024 01:08:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaxco15 left the game
+[01Dec2024 01:08:51.137] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaxco15
+[01Dec2024 01:09:01.004] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:09:01.004] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:09:13.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:10:02.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:10:02.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:10:58.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:10:58.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:10:58.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:11:27.952] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:11:30.151] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:11:42.002] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:12:33.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:14:23.404] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:15:01.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Dec2024 01:15:44.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
