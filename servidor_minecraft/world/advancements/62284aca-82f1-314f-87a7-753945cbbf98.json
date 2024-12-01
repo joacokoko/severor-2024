@@ -2135,15 +2135,297 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "rats:recipes/food/rat_burger": {
     "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
+      "has_bread": "2024-11-30 03:12:22 +0000"
     },
     "done": true
   },
-  "smallships:recipes/transportation/bamboo_galley": {
+  "vampirism:recipes/food/general/garlic_bread": {
     "criteria": {
-      "in_water": "2024-11-30 03:17:30 +0000"
+      "has_bread": "2024-11-30 03:12:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/health_upgrade": {
+    "criteria": {
+      "has_bread": "2024-11-30 03:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-30 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-11-30 03:12:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-11-30 03:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-11-30 03:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-11-30 03:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-30 03:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-30 03:13:32 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/assorted_vegetables": {
+    "criteria": {
+      "has_a_veggie": "2024-11-30 03:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-30 03:13:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/fire_place": {
+    "criteria": {
+      "has_logs": "2024-11-30 03:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-30 03:13:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-11-30 03:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 03:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-11-30 03:13:34 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/throne": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crucifix": {
+    "criteria": {
+      "planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/dj_upgrade": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_inspiration": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/crafting_upgrade": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/cross": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/bat_cage": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/alchemy_table": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/vampire_rack": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing": {
+    "criteria": {
+      "has_vampire_book": "2024-11-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-11-30 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-11-30 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_crafting_table": {
+    "criteria": {
+      "has_table": "2024-11-30 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_quarry": {
+    "criteria": {
+      "has_table": "2024-11-30 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-11-30 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-30 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
     },
     "done": true
   },
@@ -2171,9 +2453,213 @@
     },
     "done": true
   },
-  "paraglider:root": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "crafting_table": "2024-11-30 03:13:40 +0000"
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/basic_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/paraglider": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/cheese_stick": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/stake": {
+    "criteria": {
+      "has_sticks": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/radius_stick": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/patrol_stick": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/item_tent": {
+    "criteria": {
+      "has_bed": "2024-11-30 03:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-30 03:13:48 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2024-11-30 03:17:30 +0000"
     },
     "done": true
   },
@@ -2189,45 +2675,9 @@
     },
     "done": true
   },
-  "spartanshields:recipes/wooden_basic_shield": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/rat_burger": {
-    "criteria": {
-      "has_bread": "2024-11-30 03:12:22 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2024-11-30 03:12:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2024-11-30 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
     },
     "done": true
   },
@@ -2237,33 +2687,9 @@
     },
     "done": true
   },
-  "rats:recipes/building_blocks/rat_crafting_table": {
-    "criteria": {
-      "has_table": "2024-11-30 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-11-30 03:13:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2024-11-30 03:12:57 +0000"
     },
     "done": true
   },
@@ -2291,27 +2717,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_acacia_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/spruce_window": {
-    "criteria": {
-      "has_ingredient": "2024-11-30 03:13:37 +0000"
     },
     "done": true
   },
@@ -2327,51 +2735,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/throne": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/fire_place": {
-    "criteria": {
-      "has_logs": "2024-11-30 03:13:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "portablemobs:recipes/misc/basic_capture_cell": {
-    "criteria": {
-      "recipe_condition": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/food/general/garlic_bread": {
-    "criteria": {
-      "has_bread": "2024-11-30 03:12:22 +0000"
     },
     "done": true
   },
@@ -2381,111 +2747,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-11-30 03:13:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sonic_security_system": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/paraglider": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/hunter/crucifix": {
-    "criteria": {
-      "planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/health_upgrade": {
-    "criteria": {
-      "has_bread": "2024-11-30 03:12:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/dj_upgrade": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/building_blocks/rat_quarry": {
-    "criteria": {
-      "has_table": "2024-11-30 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_birch_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_oak_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
     },
     "done": true
   },
@@ -2507,51 +2777,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2024-11-30 03:13:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2024-11-30 03:13:40 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_crimson_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/item_tent": {
-    "criteria": {
-      "has_bed": "2024-11-30 03:13:45 +0000"
     },
     "done": true
   },
@@ -2567,93 +2801,9 @@
     },
     "done": true
   },
-  "rats:recipes/tools/cheese_stick": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-11-30 03:13:32 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/hunter/stake": {
-    "criteria": {
-      "has_sticks": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-11-30 03:13:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/tools/radius_stick": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/wooden_tower_shield": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2024-11-30 03:12:57 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/assorted_vegetables": {
-    "criteria": {
-      "has_a_veggie": "2024-11-30 03:13:32 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_jungle_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_warped_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-11-30 03:13:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/earplugs": {
-    "criteria": {
-      "has_item": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/altar_inspiration": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
     },
     "done": true
   },
@@ -2669,27 +2819,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/crafting_upgrade": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-11-30 03:12:25 +0000"
     },
     "done": true
   },
@@ -2708,18 +2840,6 @@
   "vampirism:recipes/transportation/cursed_spruce_boat": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
     },
     "done": true
   },
@@ -2747,33 +2867,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_cherry_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "simpleplanes:recipes/plane": {
-    "criteria": {
-      "in_fire": "2024-11-30 03:20:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-11-30 03:13:34 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/cherry_drakkar": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
     },
     "done": true
   },
@@ -2789,27 +2885,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/hunter/cross": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-11-30 03:13:32 +0000"
     },
     "done": true
   },
@@ -2819,57 +2897,15 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/bat_cage": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/transportation/dark_spruce_boat": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/alchemy_table": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
     },
     "done": true
   },
@@ -2885,30 +2921,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2024-11-30 03:12:25 +0000"
-    },
-    "done": false
-  },
-  "vampirism:recipes/decorations/general/vampire_rack": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/tools/patrol_stick": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/bamboo_drakkar": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
@@ -2921,24 +2933,6 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-11-30 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/altar_cleansing": {
-    "criteria": {
-      "has_vampire_book": "2024-11-30 03:13:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_spruce_fence": {
-    "criteria": {
-      "has_stick": "2024-11-30 03:13:41 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
@@ -2948,6 +2942,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-30 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-11-30 03:20:06 +0000"
     },
     "done": true
   },
